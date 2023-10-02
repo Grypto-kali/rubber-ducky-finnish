@@ -1,3 +1,3 @@
 # rubber-ducky-finnish
 ## Rubber Ducky Payloadien dekoodaaja Suomenkielisille Näppäinasetelmille
-voit myös käyttää osoitetta duck.gryptokali.com
+Voit käyttää tätä työkalua osoitteessa [duck.gryptokali.com](https://duck.gryptokali.com).
